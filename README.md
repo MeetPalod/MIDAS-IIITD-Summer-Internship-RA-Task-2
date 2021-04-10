@@ -9,8 +9,9 @@ This project mainly makes use of Python, Jupyter Notebooks, OpenCV and PyTorch. 
 
 ## Project Instructions
 
-To manually run through the code, you may either follow the instructions given below to run the code locally, or you may simple follow this URL to open the notebook on Google Colab: 
+To manually run through the code follow the instructions given below 
 
+Saved model points can be found here : https://drive.google.com/drive/folders/13xtpd8k7ueM9oNos1CW_3QJxby60LLHC?usp=sharing
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
