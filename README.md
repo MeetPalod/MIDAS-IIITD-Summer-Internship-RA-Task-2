@@ -26,9 +26,8 @@ To manually run through the code, you may either follow the instructions given b
 3. Install the necessary Python packages
 
    ```
-  conda install --name myenv --file requirements.txt
+ 		 conda install --name myenv --file requirements.txt
+		 
    ```
-
-
 
 ---
